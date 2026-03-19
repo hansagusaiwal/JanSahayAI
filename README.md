@@ -43,7 +43,6 @@ Email & Password Login
 Google Sign-In using Firebase
 
 🏗️ Project Structure
-jansahay ai/
 ├── index.html
 ├── login.html
 ├── dashboard.html
@@ -61,10 +60,7 @@ Storage: LocalStorage
 Design: Responsive UI/UX
 
 🔑 Setup Instructions
-1️⃣ Clone the Repository
-git clone https://github.com/hansagusaiwal/Jansahay-AI.git
-cd Jansahay-AI
-2️⃣ Run the Project
+1️⃣ Run the Project
 Option 1: Run Frontend Only
 Open index.html in your browser
 Option 2: Run with Server
